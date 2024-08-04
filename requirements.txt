@@ -1,0 +1,6 @@
+fastapi
+tts
+jwt
+passlib
+pymysql
+jose
